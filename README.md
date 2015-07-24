@@ -20,10 +20,15 @@ npm install
 Info:
 http://learn.mean.io/
 
-
 info:
 http://www.slideshare.net/fitc_slideshare/building-your-first-mean-application
 
+Chrome JSON viewer (handig bij de tutorial):
+https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related?hl=en
+
 tutorial:
 http://www.bradoncode.com/tutorials/mean-stack-tutorial-part-1-setup/
+(op de 2e pagina zal de 2e unit test falen, even err.err.indexOf('$name').should.not.equal(-1); uitcommenten)
+
+
 

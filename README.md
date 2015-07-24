@@ -20,6 +20,12 @@ bower install
 
 npm install
 
+mongo starten met mongod
+
+gulp
+
+http://localhost:3000/
+
 ---
 
 Info:

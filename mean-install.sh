@@ -4,7 +4,7 @@
 # @TODO: Only install the parts that are not yet installed
 # @TODO: Account for Linux operating system
 
-if [ -z "$1" ]
+if [ -z "$1" ];then
     project='yourNewApp'
 else
     project="$1"
